@@ -1,0 +1,26 @@
+body {
+  background-color: #282c34;
+  /*background-image: url("../images/circuit.png");*/
+  min-height: 100vh;
+  color: white;
+}
+
+nav { background-color: #9342f5;
+      text-align: white; }
+
+section {
+  background-color: #282c34;
+	min-height: 92vh;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.teamTableTitle { text-align: center;
+                  color: white; }
+
+.stateimage { margin: 0 auto; text-align: center;}
+
+footer {
+	background-color: #9342f5;
+	color: white;
+}
